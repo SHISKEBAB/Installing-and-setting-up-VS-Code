@@ -144,6 +144,7 @@ Step 7: Set Up Debugging (Optional)
 * Enable autosave and linting to prevent errors
 
 ## 6. Common Issues & Troubleshooting
+|----------------------------------|--------------------------------------------------------|
 | Issue                            | Solution                                               |
 |----------------------------------|--------------------------------------------------------|
 | VS Code not launching            | Reinstall or run with `--verbose` to see logs          |
@@ -151,6 +152,7 @@ Step 7: Set Up Debugging (Optional)
 | Terminal not opening             | Go to Settings > Terminal > Reset terminal settings    |
 | Git not detected                 | Ensure Git is installed and added to PATH              |
 | Debugger not hitting breakpoints | Make sure source maps are enabled and correctly mapped |
+|----------------------------------|--------------------------------------------------------|
 
 
 ## 7. References
