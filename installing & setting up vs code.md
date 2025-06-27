@@ -191,4 +191,4 @@ Sample launch.json for Node.js Debugging
 }
 ```
 
-##### - By Shishir Tambe
+##### - By Shishir S Tambe
