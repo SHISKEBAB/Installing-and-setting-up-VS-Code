@@ -1,5 +1,4 @@
-# Installing-and-setting-up-VS-Code
-
+# Installing and Setting Up VS Code
 ## 1. Introduction
 #### Visual Studio Code (VS Code) is a lightweight but powerful source code editor developed by Microsoft. It offers built-in support for JavaScript, TypeScript, and Node.js, along with a rich ecosystem of extensions for other languages like Python, C++, and Go.
 
