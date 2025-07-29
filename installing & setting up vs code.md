@@ -71,7 +71,7 @@ Double-click the downloaded `.exe` file and follow the setup wizard:
 - Select additional tasks (e.g., Add to PATH, Create desktop icon)
 - Click "Install"
 ```
-### macOS
+### macOS .
 ```bash
 
 - Open the `.zip` file
